@@ -45,6 +45,24 @@ The objective was to clean the data and build an executive dashboard for decisio
 
 ## Dashboard Pages
 
+## 📊 Executive Overview
+
+![Executive Overview](Overview.png)
+
+---
+
+## 👨‍💼 Sales Representative Performance
+
+![Sales Performance](Sales_Performance.png)
+
+---
+
+## 📦 Product & Customer Insights
+
+![Product Customer Insights](Product_Customer_Insights.png)
+
+---
+
 ### Executive Overview
 
 - Total Sales
